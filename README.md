@@ -1,6 +1,7 @@
 # elf_info
 This project gives the arch information about given elf file for which it is compiled for.
 To run this code base one need to compile it on linux/unix based system.
+ 
 Steps are as follows :
 	1. Download this repo from github.
 	2. Goto the repo place home.
